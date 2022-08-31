@@ -1,3 +1,2 @@
 
-echo "mkdir up_to_date" > up_to_date
-
+mkdir <up_to_date
